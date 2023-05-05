@@ -28,6 +28,7 @@ public class Task {
         }
 
         System.out.println(driver.getPageSource());
+        System.out.println();
 
     }
 }
